@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "sprangmo",
+    "packageName": "com.befeast.java",
+    "packageFolder": "com/befeast/java",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
